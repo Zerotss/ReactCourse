@@ -16,13 +16,13 @@ These apps showcase React fundamentals, state management, API usage, and real-wo
 
 ## Projects
 
-### Up Task
+### [Up Task](./upTask-mern)
 
 - Full-stack task and project management system  
 - Features authentication, role-based permissions, and a REST API  
 - Users can create projects, manage tasks, and collaborate  
 
-### Kiosk
+### [Kiosk](./kiosk-next)
 
 - Full-stack food ordering application with multiple screens  
 - Customer, kitchen, and admin dashboards with real-time updates  
