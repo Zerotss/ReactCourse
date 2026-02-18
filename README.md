@@ -36,12 +36,9 @@ These apps showcase React fundamentals, state management, API usage, and real-wo
 
   <!-- Up Task -->
   <img src="pictures/upTask/Login.png" width="400" alt="Up Task Login" />
-  <img src="pictures/upTask/DashBoard.png" width="400" alt="Up Task Dashboard" />
-  <img src="pictures/upTask/Trello.png" width="400" alt="Up Task Task Board" />
+
 
   <!-- Kiosk -->
   <img src="pictures/kiosk-pictures/SelectionPanel.png" width="400" alt="Kiosk Selection Panel" />
-  <img src="pictures/kiosk-pictures/AdministrarOrdenes.png" width="400" alt="Kiosk Manage Orders" />
-  <img src="pictures/kiosk-pictures/ProductManager.png" width="400" alt="Kiosk Product Manager" />
 
 </div>
